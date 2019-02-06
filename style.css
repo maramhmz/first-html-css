@@ -1,6 +1,11 @@
+<style>
+
 body {
     position: relative;
     font-size:1rem;
     color:black;
     background-color:#fafafa;
+}
+h4 {
+    text-align: center;
 }

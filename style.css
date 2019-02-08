@@ -1,3 +1,14 @@
+@font-face {
+	font-family: 'abolition';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('./fonts/abolition-regular-webfont.eot');
+	src: url('./fonts/abolition-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/abolition-regular-webfont.woff') format('woff'),
+		url('./fonts/abolition-regular-webfont.ttf') format('truetype');
+}
+
 body {
 	background-image: url(mountains.jpg);
 	background-size: cover;

@@ -30,6 +30,7 @@
 
 html {
 	font-size: var(--root-size);
+	scroll-behavior: smooth;
 }
 
 body {
@@ -82,6 +83,9 @@ h2 {
 	font-weight: normal;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
 	margin: 0.75rem 0;
+}
+.hero-link-next {
+	cursor: pointer;
 }
 
 .hero-arrow {

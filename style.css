@@ -123,3 +123,45 @@ p {
 	border-top: 1px solid #a9a9a9;
 	padding-top: 30px;
 }
+.content {
+    display: inline-block;
+}
+/*#page-content {
+   
+	background: url('./images/bear.jpg');
+	background-size: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}*/
+.page-content {
+	background-repeat: no-repeat;
+	background-size: auto;
+    font-family: Var;
+    text-transform: uppercase;
+
+}
+.wildlife {
+	border: 5px solid var(--yellow);
+	height: 200px;
+	margin: 25px 60px;
+	padding: 50px;
+}
+div.page-content {
+	/*clear: both;*/
+	background-size: auto;
+	background-attachment: fixed;
+	
+}
+.heading {
+	text-align: center;
+	display: inline;
+	padding: 100px;
+	margin: 200px;
+	
+	
+}
+.content {
+	display: inline;
+	
+}
